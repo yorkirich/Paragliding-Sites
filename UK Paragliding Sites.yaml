@@ -1,7 +1,7 @@
 #
 # list of UK free flying sites
 #
-sites:
+country: UK
 - name: Devils Dyke
   lat: 50.8857
   lng: -0.213
