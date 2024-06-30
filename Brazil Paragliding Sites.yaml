@@ -1,8 +1,7 @@
 #
 # list of Brazil free flying sites
 #
-sites:
-- country: Brazil
+country: Brazil
 - name: Assu
   lat: -5.595813
   lng: -36.967733
