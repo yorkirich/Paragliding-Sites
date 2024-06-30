@@ -1,0 +1,10 @@
+#
+# list of Brazil free flying sites
+#
+sites:
+- name: Assu
+  lat: -5.595813
+  lng: -36.967733
+  nickname: assu
+  club: 
+  directions: []
