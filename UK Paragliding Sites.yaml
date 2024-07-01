@@ -1,14 +1,15 @@
-- country: UK
-  sites:
-    - name: Devils Dyke
-      lat: 50.8857
-      lng: -0.213
-      nickname: devils
-      contact: http://www.shgc.org.uk/
-      wind_direction: []
-    - name: Truleigh Hill
-      lat: 50.885
-      lng: -0.26
-      nickname: truleigh
-      contact: http://www.shgc.org.uk/
-      wind_direction: []
+country: UK
+sites:
+  - name: Devils Dyke
+    lat: 50.8857
+    lng: -0.213
+    nickname: devils
+    contact: http://www.shgc.org.uk/
+    wind_direction: []
+  - name: Truleigh Hill
+    lat: 50.885
+    lng: -0.26
+    nickname: truleigh
+    contact: http://www.shgc.org.uk/
+    wind_direction: []
+
