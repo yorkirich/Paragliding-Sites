@@ -1777,12 +1777,12 @@ sites:
     nickname: rushup
     contact: www.derbyshiresoaringclub.org.uk
     wind_direction: []
-- name: Rutland
+  - name: Rutland
     lat: 52.62871
     lng: -0.60923
     nickname: rutland
     contact: rutlandairsport.wordpress.com
-    wind_direction: [0 - 360]
+    wind_direction: []
   - name: Rybury
     lat: 51.3715
     lng: -1.8807
