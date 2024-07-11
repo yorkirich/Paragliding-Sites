@@ -876,6 +876,12 @@ sites:
     nickname: edgetop
     contact: http://www.peaksoaring.co.uk
     wind_direction: []
+  - name: Elan Valley
+    lat: 52.33393
+    lng: -3.60827
+    nickname: elanvalley
+    contact: https://www.flymidwales.org.uk/
+    wind_direction: []
   - name: Elidir Fach
     lat: 53.1277
     lng: -4.1022
