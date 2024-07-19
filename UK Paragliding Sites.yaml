@@ -1319,7 +1319,7 @@ sites:
     lng: -3.4211
     nickname: llandinam
     contact: ''
-    wind_direction: []
+    wind_direction: [270 - 292]
   - name: Llangolen
     lat: 52.9556
     lng: -3.13631
@@ -1361,7 +1361,7 @@ sites:
     lng: -2.88088
     nickname: longmynd
     contact: http://www.longmynd.org/
-    wind_direction: []
+    wind_direction: [247 - 292]
   - name: Long Mynd South
     lat: 52.4951
     lng: -2.89617
