@@ -1476,6 +1476,12 @@ sites:
     nickname: mercury
     contact: http://skysurfingclub.co.uk/
     wind_direction: []
+  - name: Mere
+    lat: 51.10644
+    lng: -2.26991
+    nickname: mere
+    contact: Avon club
+    wind_direction: [135 - 270]
   - name: Merthyr Common
     lat: 51.7235
     lng: -3.33622
