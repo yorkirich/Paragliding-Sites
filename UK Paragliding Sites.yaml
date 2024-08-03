@@ -1,3 +1,11 @@
+country: Turkey
+sites:
+  - name: Cameli
+    lat: 36.98027
+    lng: 29.31488
+    nickname: Cameli
+    contact: ''
+    wind_direction: []
 country: UK
 sites:
   - name: Aberfoyle
