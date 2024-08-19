@@ -7,6 +7,14 @@ countries:
         nickname: Cameli
         contact: ''
         wind_direction: []
+  - country: BR
+    sites:
+      - name: Assu
+        lat: -5.595813
+        lng: -36.967733
+        nickname: assu
+        club: 
+        directions: []
   - country: UK
     sites:
       - name: Aberfoyle
