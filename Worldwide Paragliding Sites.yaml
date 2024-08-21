@@ -1,4 +1,12 @@
 countries:
+  - country: FR
+    sites:
+      - name: St-Andre-les-Alpes
+        lat: 44.009140
+        lng: 6.527290
+        nickname: StAndre
+        contact: ''
+        wind_direction: []
   - country: TR
     sites:
       - name: Cameli
