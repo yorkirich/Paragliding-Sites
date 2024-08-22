@@ -1825,7 +1825,7 @@ countries:
         lng: -0.60923
         nickname: rutland
         contact: rutlandairsport.wordpress.com
-        wind_direction: 0 - 359
+        wind_direction: 0 - 355
       - name: Rybury
         lat: 51.3715
         lng: -1.8807
