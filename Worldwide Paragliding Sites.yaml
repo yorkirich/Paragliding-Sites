@@ -342,7 +342,7 @@ countries:
         lng: -1.7296
         nickname: bradwell
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 225 - 330
       - name: Brampton Quarry
         lat: 50.9731
         lng: -3.47859
@@ -391,6 +391,12 @@ countries:
         nickname: brigsteer
         contact: ''
         wind_direction: []
+      - name: Broadlee Bank (SE)
+        lat: 53.372802
+        lng: -1.834445
+        nickname: broadleeSE
+        contact: 
+        wind_direction: 90 - 225        
       - name: Broughton Heights
         lat: 55.6616
         lng: -3.40851
@@ -540,7 +546,7 @@ countries:
         lng: -2.009
         nickname: catstor
         contact: http://www.peaksoaring.co.uk
-        wind_direction: []
+        wind_direction: 225 - 315
       - name: Cautley Crags
         lat: 54.3671
         lng: -2.49553
@@ -605,8 +611,8 @@ countries:
         lat: 53.1454
         lng: -1.4862
         nickname: cockingtor
-        contact: http://www.tvhgc.co.uk/
-        wind_direction: []
+        contact: 
+        wind_direction: 30 - 125
       - name: Codden Hill
         lat: 51.0476
         lng: -4.02602
@@ -779,20 +785,14 @@ countries:
         lat: 53.2695
         lng: -1.61092
         nickname: curbaredge
-        contact: http://www.tvhgc.co.uk/
-        wind_direction: []
-      - name: Curbar Edge
-        lat: 53.2695
-        lng: -1.61092
-        nickname: curbaredge
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 210 - 240
       - name: Dale Head
         lat: 53.3442
         lng: -1.8697
         nickname: dalehead
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 30 - 120
       - name: Devils Dyke
         lat: 50.8857
         lng: -0.213
@@ -924,7 +924,7 @@ countries:
         lng: -1.6968
         nickname: eyamedge
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 165 - 245
       - name: Eyam Edge
         lat: 53.2962
         lng: -1.6968
@@ -1410,7 +1410,7 @@ countries:
         lng: -1.8197
         nickname: lordsseat
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 315 - 045
       - name: Lossburn Resevoir
         lat: 56.1749
         lng: -3.89259
@@ -1435,12 +1435,18 @@ countries:
         nickname: magic
         contact: ''
         wind_direction: []
-      - name: Mam Tor
+      - name: Mam Tor(E)
         lat: 53.3496
         lng: -1.8099
         nickname: mamtor
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 45 - 135
+      - name: Mam Tor(NW)
+        lat: 53.3496
+        lng: -1.8099
+        nickname: mamtor
+        contact: www.derbyshiresoaringclub.org.uk
+        wind_direction: 290 - 335        
       - name: Mappleton
         lat: 53.8801
         lng: -0.136483
@@ -1820,7 +1826,7 @@ countries:
         lng: -0.60923
         nickname: rutland
         contact: rutlandairsport.wordpress.com
-        wind_direction: []
+        wind_direction: 0 - 360
       - name: Rybury
         lat: 51.3715
         lng: -1.8807
@@ -1947,7 +1953,7 @@ countries:
         lng: -1.6299
         nickname: stanage
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 210 - 260
       - name: Streatley Common
         lat: 51.5173
         lng: -1.1502
@@ -2133,7 +2139,7 @@ countries:
         lng: -1.79897
         nickname: treakcliff
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 40 - 135
       - name: Trentishoe Fields
         lat: 51.217536
         lng: -3.954591
