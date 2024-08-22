@@ -1598,13 +1598,12 @@ countries:
         nickname: morrone
         contact: ''
         wind_direction: []
-      - name: Mount Benge
-        lat: .nan
-        lng: 55.5305
-        nickname: '3.0924'
+      - name: Mount Benger
+        lat: 55.5305
+        lng: -3.0924
+        nickname: ''
         contact: benger
-        wind_direction:
-          - ''
+        wind_direction: 210 - 295
       - name: Mount Caburn
         lat: 50.8615
         lng: 0.0509
