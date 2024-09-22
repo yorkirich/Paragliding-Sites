@@ -23,6 +23,13 @@ countries:
         nickname: assu
         club: 
         directions: []
+      - name: Caico
+        lat: -6.437073
+        lng:-37.082512
+        nickname: caico
+        club: 
+        directions: []
+        
   - country: UK
     sites:
       - name: Aberfoyle
