@@ -28,8 +28,7 @@ countries:
         lng:-37.082512
         nickname: caico
         club: 
-        directions: []
-        
+        directions: []    
   - country: UK
     sites:
       - name: Aberfoyle
