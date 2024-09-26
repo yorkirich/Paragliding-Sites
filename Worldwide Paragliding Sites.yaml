@@ -22,13 +22,7 @@ countries:
         lng: -36.967733
         nickname: assu
         contact: '' 
-        wind_direction: []
-      - name: Caico
-        lat: -6.437073
-        lng:-37.082512
-        nickname: caico
-        contact: '' 
-        wind_direction: []    
+        wind_direction: []   
   - country: UK
     sites:
       - name: Aberfoyle
