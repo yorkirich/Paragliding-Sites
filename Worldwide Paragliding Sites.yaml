@@ -25,7 +25,7 @@ countries:
         wind_direction: []   
       - name: Caico
         lat: -6.437073
-        lng:-37.082512
+        lng: -37.082512
         nickname: caico
         contact: '' 
         wind_direction: [] 
