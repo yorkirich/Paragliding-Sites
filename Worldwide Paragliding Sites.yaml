@@ -22,13 +22,18 @@ countries:
         lng: -36.967733
         nickname: assu
         contact: '' 
-        wind_direction: []   
+        wind_direction: [0 - 360]   
       - name: Caico
         lat: -6.437185
         lng: -37.082537
         nickname: caico
         contact: '' 
-        wind_direction: [] 
+        wind_direction: [0 - 360] 
+      - name: Quixada
+        lat: -5.0363
+        lng: -39.007838
+        nickname: quixada
+        contact: ''
   - country: UK
     sites:
       - name: Aberfoyle
