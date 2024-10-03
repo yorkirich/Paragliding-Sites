@@ -34,6 +34,11 @@ countries:
         lng: -39.007838
         nickname: quixada
         contact: ''
+      - name: Cachoeirinha
+        lat: -6.62255
+        lng: -35.536918
+        nickname: Cachoeirinha
+        contact: ''
   - country: UK
     sites:
       - name: Aberfoyle
