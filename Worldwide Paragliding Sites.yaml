@@ -44,6 +44,11 @@ countries:
         lng: -35.66025
         nickname: tacima
         contact: ''
+      - name: Patu
+        lat: -6.150083
+        lng: -37.626377
+        nickname: patu
+        contact: ''
   - country: UK
     sites:
       - name: Aberfoyle
