@@ -39,6 +39,11 @@ countries:
         lng: -35.536918
         nickname: Cachoeirinha
         contact: ''
+      - name: Tacima
+        lat: -6.499883
+        lng: -35.66025
+        nickname: tacima
+        contact: ''
   - country: UK
     sites:
       - name: Aberfoyle
