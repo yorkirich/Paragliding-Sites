@@ -7,6 +7,22 @@ countries:
         nickname: StAndre
         contact: ''
         wind_direction: []
+countries:
+  - country: CO
+    sites:
+      - name: Aguapanella
+        lat: 4.40436
+        lng: -76.21074
+        nickname: Aguapanella
+        contact: ''
+        wind_direction: []
+    sites:
+      - name: Los Tanques
+        lat: 4.4765
+        lng: -76.1535
+        nickname: LosTanques
+        contact: ''
+        wind_direction: []  
   - country: TR
     sites:
       - name: Cameli
