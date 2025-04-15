@@ -482,7 +482,7 @@ countries:
         lng: -1.7907
         nickname: bunsterhill
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 180 - 158
+        wind_direction: 180 - 158, 158 - 180
       - name: Burnbank Fell
         lat: 54.5798070551678
         lng: -3.37174595648297
@@ -848,7 +848,7 @@ countries:
         lng: -3.86067222222222
         nickname: disgwylfafawr
         contact: http://www.flymidwales.org.uk
-        wind_direction: 315 - 270
+        wind_direction: 315 - 270, 270 - 315
       - name: Ditchling Beacon
         lat: 50.9034286674239
         lng: -0.11571065450817
@@ -1448,7 +1448,7 @@ countries:
         lng: -1.69548019151607
         nickname: longstoneedge
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: 180 - 158
+        wind_direction: 180 - 158, 158 - 180
       - name: Lords Seat
         lat: 53.3479
         lng: -1.8197
