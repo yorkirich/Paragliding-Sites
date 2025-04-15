@@ -680,7 +680,7 @@ countries:
         lng: -1.48012690405236
         nickname: combegibbet
         contact: http://www.tvhgc.co.uk/
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 293 - 22
       - name: Coney s Castle
         lat: 50.775648
         lng: -2.892199
@@ -710,13 +710,13 @@ countries:
         lng: -3.02500542257258
         nickname: corndon
         contact: http://www.flymidwales.org.uk
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 335 - 205
       - name: Corton Denham
         lat: 51.0086
         lng: -2.5248
         nickname: cortondenham
         contact: ' '
-        wind_direction: 225 - 225
+        wind_direction: 225 - 225, 203 - 247
       - name: Countisbury
         lat: 51.2363055555556
         lng: -3.79476666666667
@@ -902,7 +902,7 @@ countries:
         lng: -0.53763593420895
         nickname: dunstable
         contact: https://dunstablehpc.com/
-        wind_direction: 248 - 248
+        wind_direction: 248 - 248, 248 - 293
       - name: Easington
         lat: 54.7861221110358
         lng: -1.30948614151935
@@ -1088,7 +1088,7 @@ countries:
         lng: -1.82031067106283
         nickname: goldenball
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 203 - 158
+        wind_direction: 203 - 158, 158 - 203
       - name: Gragareth
         lat: 54.2039387179054
         lng: -2.47841219141294
@@ -1124,7 +1124,7 @@ countries:
         lng: -3.2078
         nickname: gyrnmoelfre
         contact: ''
-        wind_direction: 158 - 158
+        wind_direction: 158 - 158, 113 - 158
       - name: Haig Pit
         lat: 54.5435233413398
         lng: -3.59955312636566
@@ -1214,7 +1214,7 @@ countries:
         lng: -0.72950542944165
         nickname: holmbeck
         contact: http://dunstablehpc.co.uk/
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 0 - 360
       - name: Holme Moss
         lat: 53.532386676772
         lng: -1.85089342506071
@@ -1334,7 +1334,7 @@ countries:
         lng: -2.73806706797681
         nickname: lawley
         contact: ''
-        wind_direction: 315 - 315
+        wind_direction: 315 - 315, 293 - 338
       - name: Leadlich
         lat: 57.1343
         lng: -2.79133
@@ -1346,7 +1346,7 @@ countries:
         lng: -2.06185181067167
         nickname: leckhampton
         contact: http://www.malvern-hang.org.uk/leckhamp.shtml
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 315 - 45
       - name: Ledmore
         lat: 58.0704
         lng: -4.9637
@@ -1364,7 +1364,7 @@ countries:
         lng: -1.70152169098773
         nickname: liddington
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 315 - 248
+        wind_direction: 315 - 248, 223 - 265
       - name: Limerstone
         lat: 50.6513419567903
         lng: -1.38263570179602
@@ -1394,7 +1394,7 @@ countries:
         lng: -3.13565224259855
         nickname: llangollen
         contact: http://www.tvhgc.co.uk/
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 293 - 22
       - name: Llangorse
         lat: 51.9377818837731
         lng: -3.22287930956485
@@ -1472,7 +1472,7 @@ countries:
         lng: -2.57658537573684
         nickname: maesKnoll
         contact: ''
-        wind_direction: 113 - 113
+        wind_direction: 113 - 113, 90 - 135
       - name: Magic
         lat: 51.8880180456789
         lng: -3.13639821347821
@@ -1712,7 +1712,7 @@ countries:
         lng: -2.00104060698221
         nickname: oliverscastle
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 293 - 293
+        wind_direction: 293 - 293, 270 - 310
       - name: Pandy
         lat: 51.9087556213926
         lng: -2.99531037333717
@@ -2210,7 +2210,7 @@ countries:
         lng: -2.67609106388554
         nickname: ubley
         contact: ' http://www.avonhgpg.co.uk/ '
-        wind_direction: NaN - 68
+        wind_direction: NaN - 68, 22 - 68
       - name: Uffington
         lat: 51.5773219123224
         lng: -1.56660402076106
@@ -2252,7 +2252,7 @@ countries:
         lng: -2.14588790942305
         nickname: westbury
         contact: http://avonhgpg.co.uk/
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 315 - 22
       - name: Wether Fell
         lat: 54.2704151469978
         lng: -2.20466220003877
