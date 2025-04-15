@@ -482,7 +482,7 @@ countries:
         lng: -1.7907
         nickname: bunsterhill
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 180 - 158, 158 - 180
+        wind_direction: 158 - 180
       - name: Burnbank Fell
         lat: 54.5798070551678
         lng: -3.37174595648297
@@ -968,13 +968,7 @@ countries:
         lng: -1.6968
         nickname: eyamedge
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: 165 - 245, 203 - 225, 158 - 248
-      - name: Eyam Edge
-        lat: 53.2962
-        lng: -1.6968
-        nickname: eyamedge
-        contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 165 - 245
       - name: Eype
         lat: 50.7159690942462
         lng: -2.77900408742589
@@ -1430,7 +1424,7 @@ countries:
         lng: -2.87986005952666
         nickname: longmynd
         contact: http://www.longmynd.org/
-        wind_direction: 225 - 330, 270 - 338
+        wind_direction: 225 - 330
       - name: Long Mynd South
         lat: 52.4952446947121
         lng: -2.89449835032196
@@ -1448,7 +1442,7 @@ countries:
         lng: -1.69548019151607
         nickname: longstoneedge
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: 180 - 158, 158 - 180
+        wind_direction: 158 - 180
       - name: Lords Seat
         lat: 53.3479
         lng: -1.8197
@@ -1472,7 +1466,7 @@ countries:
         lng: -2.57658537573684
         nickname: maesKnoll
         contact: ''
-        wind_direction: 113 - 113, 90 - 135
+        wind_direction: 90 - 135
       - name: Magic
         lat: 51.8880180456789
         lng: -3.13639821347821
@@ -1496,7 +1490,7 @@ countries:
         lng: -0.13417267626151
         nickname: mappleton
         contact: ''
-        wind_direction: 68 - 68
+        wind_direction: 45 - 90
       - name: Marske
         lat: 54.595800817086
         lng: -1.01149544992422
@@ -1520,7 +1514,7 @@ countries:
         lng: ''
         nickname: meallchuaich
         contact: ''
-        wind_direction: NaN - NaN
+        wind_direction: []
       - name: Meall Gorm
         lat: 57.4025
         lng: -5.7018
@@ -1562,7 +1556,7 @@ countries:
         lng: -3.33361809751706
         nickname: merthyr
         contact: 'http://www.sewhgpgc.co.uk '
-        wind_direction: NaN - 22
+        wind_direction: 0 - 22
       - name: Milk Hill
         lat: 51.3788024702849
         lng: -1.85633972076703
@@ -1592,13 +1586,13 @@ countries:
         lng: ''
         nickname: minster
         contact: http://www.shgc.org.uk/
-        wind_direction: NaN - NaN
+        wind_direction: []
       - name: Model Ridge
         lat: 54.4223031576928
         lng: -1.1927703132795
         nickname: modelridge
         contact: ''
-        wind_direction: NaN - 22, 293 - 67
+        wind_direction: 293 - 67
       - name: Moel Berfedd
         lat: 53.0817823031519
         lng: -4.01074095861946
@@ -1670,7 +1664,7 @@ countries:
         lng: -3.84316355149448
         nickname: myreton
         contact: https://www.llsclub.co.uk/index.php/myreton
-        wind_direction: 180 - 180
+        wind_direction: 158 - 202
       - name: Na Cnapanan
         lat: 56.9655694575969
         lng: -4.5100743028292
@@ -1682,7 +1676,7 @@ countries:
         lng: ''
         nickname: nantymoel
         contact: ''
-        wind_direction: NaN - NaN
+        wind_direction: []
       - name: Nappa Scar
         lat: 54.3278556960486
         lng: -2.06233558787737
@@ -1700,7 +1694,7 @@ countries:
         lng: -3.50074227880227
         nickname: northhill
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 0 - 22
       - name: North Table
         lat: 57.4027
         lng: -6.6278
@@ -1712,7 +1706,7 @@ countries:
         lng: -2.00104060698221
         nickname: oliverscastle
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 293 - 293, 270 - 310
+        wind_direction: 270 - 310
       - name: Pandy
         lat: 51.9087556213926
         lng: -2.99531037333717
@@ -1796,7 +1790,7 @@ countries:
         lng: -3.62750833333333
         nickname: porlock
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 0 - 45
       - name: Pressendye
         lat: 57.1677146120411
         lng: -2.8450291586517
@@ -1820,7 +1814,7 @@ countries:
         lng: -5.0234
         nickname: quinag
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 0 - 45
       - name: Raddon Hill
         lat: 50.8177530680375
         lng: -3.56350070725479
@@ -1862,7 +1856,7 @@ countries:
         lng: -1.83581901096046
         nickname: rushup
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: NaN - 22, 105 - 195
+        wind_direction: 135 - 195
       - name: Rutland
         lat: 52.62871
         lng: -0.60923
