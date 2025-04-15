@@ -620,7 +620,7 @@ countries:
         lng: -1.8282832549696
         nickname: chelmorton
         contact: http://www.peaksoaring.co.uk
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 338 - 22
       - name: Chillerton
         lat: 50.6475373339093
         lng: -1.32716622113774
@@ -824,7 +824,7 @@ countries:
         lng: -1.83687
         nickname: crowdecote
         contact: http://www.peaksoaring.co.uk
-        wind_direction: 248 - 248
+        wind_direction: 248 - 248, 235 - 285
       - name: Curbar Edge
         lat: 53.2695
         lng: -1.61092
@@ -848,7 +848,7 @@ countries:
         lng: -3.86067222222222
         nickname: disgwylfafawr
         contact: http://www.flymidwales.org.uk
-        wind_direction: 315 - 270, 270 - 315
+        wind_direction: 315 - 270, 270 - 315, 270 - 360
       - name: Ditchling Beacon
         lat: 50.9034286674239
         lng: -0.11571065450817
@@ -964,11 +964,11 @@ countries:
         contact: ''
         wind_direction: 248 - 293
       - name: Eyam Edge
-        lat: 53.2963235190985
-        lng: -1.69624944647864
+        lat: 53.2962
+        lng: -1.6968
         nickname: eyamedge
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: 165 - 245, 203 - 225
+        wind_direction: 165 - 245, 203 - 225, 158 - 248
       - name: Eyam Edge
         lat: 53.2962
         lng: -1.6968
@@ -1004,7 +1004,7 @@ countries:
         lng: -3.97522475881507
         nickname: farmers
         contact: 'http://www.sewhgpgc.co.uk '
-        wind_direction: 158 - 158
+        wind_direction: 158 - 158, 136 - 180
       - name: Farway
         lat: 50.7403217268077
         lng: -3.14388879866912
@@ -1220,7 +1220,7 @@ countries:
         lng: -1.85089342506071
         nickname: holmemoss
         contact: ''
-        wind_direction: NaN - 68
+        wind_direction: NaN - 68, 348 - 102
       - name: Horcum
         lat: 54.3347565695724
         lng: -0.70015481656979
@@ -1862,7 +1862,7 @@ countries:
         lng: -1.83581901096046
         nickname: rushup
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 105 - 195
       - name: Rutland
         lat: 52.62871
         lng: -0.60923
