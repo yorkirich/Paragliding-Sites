@@ -116,7 +116,7 @@ countries:
         lng: -3.7043
         nickname: auchinleck
         contact: https://www.llsclub.co.uk/index.php/thornhill
-        wind_direction: 203 - 203
+        wind_direction: 203 - 203, 180 - 225
       - name: Bache Hill
         lat: 52.2653930095104
         lng: -3.14303252611223
@@ -154,11 +154,11 @@ countries:
         contact: ''
         wind_direction: 203 - 203
       - name: Barkin Fell
-        lat: 54.2764
-        lng: -2.49482
+        lat: 54.2766
+        lng: -2.49716
         nickname: barkin
         contact: ''
-        wind_direction: 90 - 113
+        wind_direction: 90 - 113, 113 - 158
       - name: Barkin Fell
         lat: 54.2766
         lng: -2.49716
@@ -512,7 +512,7 @@ countries:
         lng: -3.25690026096828
         nickname: bmm
         contact: ''
-        wind_direction: 248 - 248
+        wind_direction: 248 - 248, 226 - 270
       - name: Cacra
         lat: 55.440000269722
         lng: -3.07494026113707
@@ -554,7 +554,7 @@ countries:
         lng: -1.09160227161436
         nickname: ccm
         contact: ''
-        wind_direction: 225 - 225
+        wind_direction: 225 - 225, 225 - 270
       - name: Carn Liath
         lat: 56.8055885351326
         lng: -3.7454920812351
@@ -572,7 +572,7 @@ countries:
         lng: -4.32964130032646
         nickname: carsphairn
         contact: ''
-        wind_direction: 113 - 68
+        wind_direction: 113 - 68, 113 - 168
       - name: Cartridge Hill
         lat: 53.6746832656325
         lng: -2.50037618835592
@@ -728,7 +728,7 @@ countries:
         lng: -2.17245828520615
         nickname: cow
         contact: ''
-        wind_direction: NaN - 68
+        wind_direction: NaN - 68, 23 - 68
       - name: Cowards Bowl
         lat: 51.1087540716701
         lng: -2.2717949488275
@@ -806,7 +806,7 @@ countries:
         lng: -1.17852849895833
         nickname: cringlemoor
         contact: ''
-        wind_direction: 23 - 68
+        wind_direction: 23 - 68, 338 - 113
       - name: Crook Peak
         lat: 51.2961581895822
         lng: -2.88022604835054
@@ -866,7 +866,7 @@ countries:
         lng: -2.26367676555675
         nickname: doddf
         contact: ''
-        wind_direction: 315 - 315
+        wind_direction: 315 - 315, 248 - 337
       - name: Double Craigs - Stronend (W)
         lat: ''
         lng: ''
@@ -938,7 +938,7 @@ countries:
         lng: -2.27147645063713
         nickname: edenfield
         contact: ''
-        wind_direction: 203 - 203
+        wind_direction: 203 - 203, 158 - 203
       - name: Edge Top
         lat: ''
         lng: ''
@@ -1598,7 +1598,7 @@ countries:
         lng: -1.1927703132795
         nickname: modelridge
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 293 - 67
       - name: Moel Berfedd
         lat: 53.0817823031519
         lng: -4.01074095861946
@@ -1988,7 +1988,7 @@ countries:
         lng: -2.19364628861385
         nickname: stags
         contact: ''
-        wind_direction: 203 - 180
+        wind_direction: 203 - 180, 158 - 225
       - name: Stanage
         lat: 53.3454
         lng: -1.6299
@@ -2378,7 +2378,7 @@ countries:
         lng: -2.98180966241917
         nickname: wolfc
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: NaN - 22, 348 - 68
       - name: Woolacombe
         lat: 51.1574040631942
         lng: -4.20626391281866
