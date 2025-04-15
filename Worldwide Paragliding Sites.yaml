@@ -70,17 +70,17 @@ countries:
   - country: UK
     sites:
       - name: Aberfoyle
-        lat: 56.1884
-        lng: -4.40228
+        lat: 56.188031489
+        lng: -4.40254545562121
         nickname: aberf
         contact: ''
-        wind_direction: []
+        wind_direction: 158 - 248
       - name: Abertysswg
-        lat: 51.7452
-        lng: -3.24561
+        lat: 51.7449331218933
+        lng: -3.24405947766992
         nickname: abertysswg
         contact: http://www.swwsc.co.uk
-        wind_direction: []
+        wind_direction: 248 - 338
       - name: Aberystwyth
         lat: 52.3488
         lng: -4.118
@@ -536,7 +536,7 @@ countries:
         lng: -3.421
         nickname: cairnwell
         contact: ''
-        wind_direction: 67.5 - 157.5, 247.5 - 247.5
+        wind_direction: 67 - 157, 247 - 247
       - name: Cam Lond Down
         lat: 51.6941
         lng: -2.3302
