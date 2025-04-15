@@ -514,23 +514,23 @@ countries:
         contact: ''
         wind_direction: []
       - name: Cacra
-        lat: 55.4398
-        lng: -3.07833
+        lat: 55.440000269722
+        lng: -3.07494026113707
         nickname: cacra
         contact: ''
-        wind_direction: []
+        wind_direction: 203 - 248
       - name: Cairn O Mount
-        lat: 56.9145
-        lng: -2.576
+        lat: 56.9143291013917
+        lng: -2.57591558342702
         nickname: cairnomount
         contact: ''
-        wind_direction: []
+        wind_direction: 158 - 248
       - name: Cairngorm
-        lat: 57.1225
-        lng: -3.6462
+        lat: 57.1295805216915
+        lng: -3.6517339319546
         nickname: cairngorm
         contact: ''
-        wind_direction: []
+        wind_direction: 203 - 248
       - name: Cairnwell - Glenshee
         lat: 56.8788
         lng: -3.421
@@ -538,47 +538,47 @@ countries:
         contact: ''
         wind_direction: 67 - 157, 247 - 247
       - name: Cam Lond Down
-        lat: 51.6941
-        lng: -2.3302
+        lat: 51.6942446332592
+        lng: -2.330827107505
         nickname: camlongdown
         contact: http://www.avonhgpg.co.uk/sites/camlongd.php?s
-        wind_direction: []
+        wind_direction: 270 - 23
       - name: Campsies
-        lat: 55.9942
-        lng: -4.2153
+        lat: 55.9939725534847
+        lng: -4.21483274817732
         nickname: campsies
         contact: https://www.llsclub.co.uk/index.php/campsie-fells
-        wind_direction: []
+        wind_direction: 203 - 203
       - name: Captain Cooks Monument
-        lat: 54.4854
-        lng: -1.09536
+        lat: 54.4827782300253
+        lng: -1.09160227161436
         nickname: ccm
         contact: ''
-        wind_direction: []
+        wind_direction: 225 - 225
       - name: Carn Liath
-        lat: 56.8018
-        lng: -3.74977
+        lat: 56.8055885351326
+        lng: -3.7454920812351
         nickname: carnl
         contact: ''
-        wind_direction: []
+        wind_direction: 158 - 158
       - name: Carrock Fell
-        lat: 54.6977
-        lng: -3.01377
+        lat: 54.6981262570753
+        lng: -3.01345169915615
         nickname: carrock
         contact: ''
-        wind_direction: []
+        wind_direction: 23 - 90
       - name: Carsphairn
-        lat: 55.22
-        lng: -4.3324
+        lat: 55.2211953185613
+        lng: -4.32964130032646
         nickname: carsphairn
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 68
       - name: Cartridge Hill
-        lat: 53.6734
-        lng: -2.49807
+        lat: 53.6746832656325
+        lng: -2.50037618835592
         nickname: cartridgehill
         contact: ''
-        wind_direction: []
+        wind_direction: 248 - 315
       - name: Castle Morton
         lat: 52.0449
         lng: -2.34852
@@ -839,64 +839,64 @@ countries:
         wind_direction: 30 - 120
       - name: Devils Dyke
         lat: 50.8857
-        lng: -0.213
+        lng: -0.21296
         nickname: devils
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: NaN - 338
       - name: Disgwylfa Fawr
-        lat: 52.4428
-        lng: -3.8606
+        lat: 52.444701350389
+        lng: -3.86067222222222
         nickname: disgwylfafawr
         contact: http://www.flymidwales.org.uk
-        wind_direction: []
+        wind_direction: 315 - 270
       - name: Ditchling Beacon
-        lat: 50.9033
-        lng: -0.1097
+        lat: 50.9034286674239
+        lng: -0.11571065450817
         nickname: ditchling
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 315 - 45
       - name: Dizzard
-        lat: 50.7648
-        lng: -4.58962
+        lat: 50.7640942434559
+        lng: -4.58920707776593
         nickname: dizzard
         contact: ''
-        wind_direction: []
+        wind_direction: 315 - 360
       - name: Dodd Fell
-        lat: 54.2516
-        lng: -2.26247
+        lat: 54.2486938695917
+        lng: -2.26367676555675
         nickname: doddf
         contact: ''
-        wind_direction: []
+        wind_direction: 315 - 315
       - name: Double Craigs - Stronend (W)
-        lat: 56.0732
-        lng: -4.20193
+        lat: ''
+        lng: ''
         nickname: doublecraigs
         contact: https://www.llsclub.co.uk/index.php/stronend
-        wind_direction: []
+        wind_direction: NaN - NaN
       - name: Draycott
-        lat: 51.2545
-        lng: -2.72085
+        lat: 51.2541583941813
+        lng: -2.72121144345133
         nickname: draycott
         contact: ' http://www.avonhgpg.co.uk/ '
-        wind_direction: []
+        wind_direction: 203 - 248
       - name: Drumadoon
-        lat: 55.5133
-        lng: -5.3475
+        lat: 55.5121625968146
+        lng: -5.34898045830018
         nickname: drumadoon
         contact: ''
-        wind_direction: []
+        wind_direction: 293 - 315
       - name: Dumyat
-        lat: 56.1553
-        lng: -3.87382
+        lat: ''
+        lng: ''
         nickname: dumyat
         contact: https://www.llsclub.co.uk/index.php/dumyat
-        wind_direction: []
+        wind_direction: NaN - NaN
       - name: Dungavel Hill
-        lat: 55.5569
-        lng: -3.6811
+        lat: 55.5571914237185
+        lng: -3.68174090624729
         nickname: dungavel
         contact: https://www.llsclub.co.uk/index.php/dungavel
-        wind_direction: []
+        wind_direction: 203 - 293
       - name: Dunstable
         lat: 51.873485
         lng: -0.537801
@@ -904,65 +904,65 @@ countries:
         contact: https://dunstablehpc.com/
         wind_direction: []
       - name: Easington
-        lat: 54.7861
-        lng: -1.3095
+        lat: 54.7861221110358
+        lng: -1.30948614151935
         nickname: easington
         contact: ''
-        wind_direction: []
+        wind_direction: 68 - 113
       - name: East Hill
-        lat: 50.732
-        lng: -3.2499
+        lat: 50.7246366991596
+        lng: -3.25424472222059
         nickname: easthill
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 248 - 293
       - name: East Hill (Northumberland)
-        lat: 55.4406
-        lng: -1.94941
+        lat: 55.439785652549
+        lng: -1.94900624851239
         nickname: easthn
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 158
       - name: East Lomond
-        lat: 56.2423
-        lng: -3.2211
+        lat: 56.2422908056429
+        lng: -3.22125048110153
         nickname: eastl
         contact: ''
-        wind_direction: []
+        wind_direction: 315 - 45
       - name: Ebbw Vale
-        lat: 51.7465
-        lng: -3.20364
+        lat: 51.7518037533784
+        lng: -3.20677869488903
         nickname: ebbw
         contact: http://www.swwsc.co.uk
-        wind_direction: []
+        wind_direction: 23 - 113
       - name: Edenfield
-        lat: 53.6564
-        lng: -2.27033
+        lat: 53.656826048234
+        lng: -2.27147645063713
         nickname: edenfield
         contact: ''
-        wind_direction: []
+        wind_direction: 203 - 203
       - name: Edge Top
-        lat: 53.1911
-        lng: -1.92662
+        lat: ''
+        lng: ''
         nickname: edgetop
         contact: http://www.peaksoaring.co.uk
-        wind_direction: []
+        wind_direction: NaN - NaN
       - name: Elan Valley
-        lat: 52.33393
-        lng: -3.60827
+        lat: ''
+        lng: ''
         nickname: elanvalley
         contact: https://www.flymidwales.org.uk/
-        wind_direction: []
+        wind_direction: NaN - NaN
       - name: Elidir Fach
-        lat: 53.1277
-        lng: -4.1022
+        lat: 53.1277693445363
+        lng: -4.10220704772496
         nickname: elidirfach
         contact: http://www.tvhgc.co.uk/
-        wind_direction: []
+        wind_direction: 248 - 338
       - name: Ellerside
-        lat: 54.2176
-        lng: -2.98841
+        lat: 54.2202115223866
+        lng: -2.98871191829499
         nickname: ellerside
         contact: ''
-        wind_direction: []
+        wind_direction: 248 - 293
       - name: Eyam Edge
         lat: 53.2962
         lng: -1.6968
@@ -1426,11 +1426,11 @@ countries:
         contact: http://www.flymidwales.org.uk
         wind_direction: 315 - 360
       - name: Long Mynd
-        lat: 52.522
-        lng: -2.88088
+        lat: 52.5222873211862
+        lng: -2.87986005952666
         nickname: longmynd
         contact: http://www.longmynd.org/
-        wind_direction: 225 - 330
+        wind_direction: 225 - 330, 270 - 338
       - name: Long Mynd South
         lat: 52.4952446947121
         lng: -2.89449835032196
@@ -1696,29 +1696,29 @@ countries:
         contact: ''
         wind_direction: []
       - name: North Hill
-        lat: 51.2192
-        lng: -3.50079
+        lat: 51.2195937315326
+        lng: -3.50074227880227
         nickname: northhill
         contact: ''
-        wind_direction: []
+        wind_direction: NaN - 22
       - name: North Table
         lat: 57.4027
         lng: -6.6278
         nickname: northtable
         contact: ''
-        wind_direction: []
+        wind_direction: 180 - 135
       - name: Olivers Castle
-        lat: 51.3809
-        lng: -1.99856
+        lat: 51.3805760082177
+        lng: -2.00104060698221
         nickname: oliverscastle
         contact: http://www.tvhgc.co.uk/
-        wind_direction: []
+        wind_direction: 293 - 293
       - name: Pandy
-        lat: 51.905
-        lng: -2.99273
+        lat: 51.9087556213926
+        lng: -2.99531037333717
         nickname: pandy
         contact: http://www.sewhgpgc.co.uk
-        wind_direction: []
+        wind_direction: 45 - 113
       - name: Parlick
         lat: 53.9005
         lng: -2.6161
@@ -1730,37 +1730,37 @@ countries:
         lng: -1.1048
         nickname: grove
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 203 - 293
       - name: Peak Hill
-        lat: 50.677
-        lng: -3.2626
+        lat: 50.6771343979705
+        lng: -3.2624879486037
         nickname: peakhill
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 225 - 270
       - name: Pen Dias
         lat: 52.4018
         lng: -4.0826
         nickname: pendias
         contact: http://www.flymidwales.org.uk
-        wind_direction: []
+        wind_direction: 225 - 293
       - name: Pen-y-Ghent (SE)
-        lat: 54.1547
-        lng: -2.24821
+        lat: 54.1559063253524
+        lng: -2.24979625305512
         nickname: pygse
         contact: ''
-        wind_direction: []
+        wind_direction: 248 - 293
       - name: Pen-y-ghent (W)
-        lat: 54.1569
-        lng: -2.25177
+        lat: 54.1559063253524
+        lng: -2.24979625305512
         nickname: pygw
         contact: ''
-        wind_direction: []
+        wind_direction: 248 - 293
       - name: Pendle
-        lat: 53.86
-        lng: -2.34062
+        lat: 53.8574484582606
+        lng: -2.33798698512133
         nickname: pendle
         contact: ''
-        wind_direction: []
+        wind_direction: 270 - 338
       - name: Penycloddiau East
         lat: 53.2049
         lng: -3.3085
@@ -2080,23 +2080,23 @@ countries:
         contact: http://www.avonhgpg.co.uk/sites/talybont.php
         wind_direction: []
       - name: Tan Hill
-        lat: 51.38108
-        lng: -1.878631
+        lat: 51.3798999626929
+        lng: -1.88072518649666
         nickname: tanhill
         contact: http://www.tvhgc.co.uk/
-        wind_direction: []
+        wind_direction: 90 - 203
       - name: Tap o Noth
-        lat: 57.3505
-        lng: -2.85789
+        lat: 57.3506233919116
+        lng: -2.85820861552767
         nickname: taponoth
         contact: https://www.ahpc.org.uk/sites/tap-o-noth/
-        wind_direction: []
+        wind_direction: 203 - 158
       - name: Telegraph Hill
-        lat: 50.8424
-        lng: -2.5135
-        nickname: telegraph
-        contact: http://www.shgc.org.uk/
-        wind_direction: []
+        lat: 50.6426331206923
+        lng: -3.53723909503943
+        nickname: telegraphhill
+        contact: ''
+        wind_direction: 270 - 360, 68 - 68
       - name: Telegraph Hill
         lat: 50.6405
         lng: -3.53602
@@ -2104,41 +2104,41 @@ countries:
         contact: ''
         wind_direction: []
       - name: The Blorenge
-        lat: 51.8037
-        lng: -3.05287
+        lat: 51.8073284226637
+        lng: -3.0559017888462
         nickname: blorenge
         contact: http://www.sewhgpgc.co.uk
-        wind_direction: []
+        wind_direction: 23 - 360
       - name: The Quirang - Totternish
-        lat: 57.6293
-        lng: -6.28989
+        lat: 57.6291767354177
+        lng: -6.28904166728169
         nickname: quirang
         contact: ''
-        wind_direction: []
+        wind_direction: 45 - 113
       - name: The Roaches
-        lat: 53.165
-        lng: -1.99948
+        lat: 53.1689241243135
+        lng: -2.00292379311362
         nickname: theroaches
         contact: http://www.tvhgc.co.uk/
-        wind_direction: []
+        wind_direction: 203 - 270
       - name: The Wrekin
-        lat: 52.67
-        lng: -2.55383
+        lat: 52.6694144356796
+        lng: -2.55185341686827
         nickname: thewrekin
         contact: ''
-        wind_direction: []
+        wind_direction: 293 - 338
       - name: Thundergay
         lat: 55.6542
         lng: -5.3408
         nickname: drumadoon
         contact: ''
-        wind_direction: []
+        wind_direction: 293 - 338
       - name: Thurnham
-        lat: 51.2935
-        lng: 0.5881
+        lat: 51.2946639583959
+        lng: 0.58832306620904
         nickname: thurnham
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 180 - 270
       - name: Tinto (Alt North)
         lat: 55.6036
         lng: -3.6584
