@@ -82,83 +82,83 @@ countries:
         contact: http://www.swwsc.co.uk
         wind_direction: 248 - 338
       - name: Aberystwyth
-        lat: 52.3488
-        lng: -4.118
+        lat: 52.3473250805492
+        lng: -4.11809675749829
         nickname: aberystwyth
         contact: http://www.flymidwales.org.uk
-        wind_direction: []
+        wind_direction: 270 - 315
       - name: Abington
-        lat: 55.5014
-        lng: -3.7351
+        lat: 55.5103532671796
+        lng: -3.67734208831974
         nickname: abington
         contact: http://www.cloudbusters.co.uk/
-        wind_direction: []
+        wind_direction: 248 - 293
       - name: Afton Down
-        lat: 50.6706
-        lng: -1.4811
+        lat: 50.6705428135107
+        lng: -1.48113600516138
         nickname: aftondown
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 315 - 45
       - name: Aonach Mor
         lat: 56.8421
         lng: -4.97092
         nickname: aonach
         contact: ''
-        wind_direction: []
+        wind_direction: NaN - 22
       - name: Arreton
-        lat: 50.6808
-        lng: -1.228
+        lat: 50.6812
+        lng: -1.22722
         nickname: arreton
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 180 - 180
       - name: Auchinleck Hill - Thornhill
         lat: 55.2698
         lng: -3.7043
         nickname: auchinleck
         contact: https://www.llsclub.co.uk/index.php/thornhill
-        wind_direction: []
+        wind_direction: 203 - 203
       - name: Bache Hill
-        lat: 52.266
-        lng: -3.156
+        lat: 52.2653930095104
+        lng: -3.14303252611223
         nickname: bachehill
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 158
       - name: Back of Ecton
-        lat: 53.12
-        lng: -1.85502
+        lat: 53.1194755567057
+        lng: -1.85176273699385
         nickname: backofecton
         contact: http://www.tvhgc.co.uk/
-        wind_direction: []
+        wind_direction: 68 - 68
       - name: Bald Hill
-        lat: 51.6597
-        lng: -0.9574
+        lat: 51.6585415995216
+        lng: -0.95629662243532
         nickname: baldhill
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 203 - 293
       - name: Ballard Down
-        lat: 50.6299
-        lng: -1.9453
+        lat: 50.6309022629853
+        lng: -1.94551342812172
         nickname: ballard
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 158 - 180
       - name: Balquidder
-        lat: 56.3533
-        lng: -4.4831
+        lat: 56.3500326997859
+        lng: -4.48520653604463
         nickname: balq
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 248
       - name: Bank Hill
-        lat: 56.1739
-        lng: -3.6848
+        lat: 56.1734935951761
+        lng: -3.68517751595765
         nickname: bankhill
         contact: ''
-        wind_direction: []
+        wind_direction: 203 - 203
       - name: Barkin Fell
-        lat: 54.2766
-        lng: -2.49716
+        lat: 54.2764
+        lng: -2.49482
         nickname: barkin
         contact: ''
-        wind_direction: []
+        wind_direction: 90 - 113
       - name: Barkin Fell
         lat: 54.2766
         lng: -2.49716
@@ -166,35 +166,35 @@ countries:
         contact: ''
         wind_direction: []
       - name: Barton Fell
-        lat: 54.5831
-        lng: -2.83239
+        lat: 54.5829673112629
+        lng: -2.83199386355677
         nickname: bartonfell
         contact: ''
-        wind_direction: []
+        wind_direction: 293 - 338
       - name: Barton on Sea
-        lat: 50.7352
-        lng: -1.6623
+        lat: 50.7352069706007
+        lng: -1.65862695581684
         nickname: bartonsea
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 158 - 225
       - name: Beachy Head
-        lat: 50.7391
-        lng: 0.2534
+        lat: 50.7398184701858
+        lng: 0.25302571789741
         nickname: head
         contact: http://www.shgc.org.uk/
-        wind_direction: []
+        wind_direction: 158 - 135
       - name: Bealach na Ba
-        lat: 57.4128
-        lng: -5.7011
+        lat: 57.4124837759132
+        lng: -5.70094832211753
         nickname: bealach
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 158
       - name: Beesands
-        lat: 50.2475
-        lng: -3.66223
+        lat: 50.2482763293152
+        lng: -3.65966464621556
         nickname: beesands
         contact: ''
-        wind_direction: []
+        wind_direction: 45 - 135
       - name: Beinn Bhan
         lat: 57.4248
         lng: -5.6297
@@ -1418,13 +1418,13 @@ countries:
         lng: -4.1407
         nickname: lochw
         contact: ''
-        wind_direction: []
+        wind_direction: 158 - 203
       - name: Long Mountain
-        lat: 52.6764
-        lng: -3.06218
+        lat: 52.6749453405274
+        lng: -3.06358109838679
         nickname: longmountain
         contact: http://www.flymidwales.org.uk
-        wind_direction: []
+        wind_direction: 315 - 360
       - name: Long Mynd
         lat: 52.522
         lng: -2.88088
@@ -1432,11 +1432,11 @@ countries:
         contact: http://www.longmynd.org/
         wind_direction: 225 - 330
       - name: Long Mynd South
-        lat: 52.4951
-        lng: -2.89617
+        lat: 52.4952446947121
+        lng: -2.89449835032196
         nickname: longmyndsouth
         contact: http://www.longmynd.org/
-        wind_direction: []
+        wind_direction: 248 - 338
       - name: Longridge fell
         lat: 53.8659
         lng: -2.5138
@@ -1444,11 +1444,11 @@ countries:
         contact: ''
         wind_direction: 315 - 22
       - name: Longstone Edge
-        lat: 53.2545
-        lng: -1.6961
+        lat: 53.2547235109548
+        lng: -1.69548019151607
         nickname: longstoneedge
         contact: www.derbyshiresoaringclub.org.uk
-        wind_direction: []
+        wind_direction: 180 - 158
       - name: Lords Seat
         lat: 53.3479
         lng: -1.8197
@@ -1460,25 +1460,25 @@ countries:
         lng: -3.89259
         nickname: lossburn
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 248
       - name: Luss
-        lat: 56.1141
-        lng: -4.6548
+        lat: 56.1133445500739
+        lng: -4.65520842408917
         nickname: luss
         contact: ''
-        wind_direction: []
+        wind_direction: 23 - 248
       - name: Maes Knoll
-        lat: 51.3921
-        lng: -2.5747
+        lat: 51.3917153470522
+        lng: -2.57658537573684
         nickname: maesKnoll
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 113
       - name: Magic
-        lat: 51.8876
-        lng: -3.13497
+        lat: 51.8880180456789
+        lng: -3.13639821347821
         nickname: magic
         contact: ''
-        wind_direction: []
+        wind_direction: 113 - 248
       - name: Mam Tor(E)
         lat: 53.3496
         lng: -1.8099
@@ -1492,17 +1492,17 @@ countries:
         contact: www.derbyshiresoaringclub.org.uk
         wind_direction: 290 - 335
       - name: Mappleton
-        lat: 53.8801
-        lng: -0.136483
+        lat: 53.8769073450014
+        lng: -0.13417267626151
         nickname: mappleton
         contact: ''
-        wind_direction: []
+        wind_direction: 68 - 68
       - name: Marske
-        lat: 54.5958
-        lng: -1.0113
+        lat: 54.595800817086
+        lng: -1.01149544992422
         nickname: marske
         contact: ''
-        wind_direction: []
+        wind_direction: 23 - 68
       - name: Meall a Bhainne
         lat: 57.7332
         lng: -5.0422
