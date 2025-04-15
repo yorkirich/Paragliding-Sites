@@ -946,11 +946,11 @@ countries:
         contact: http://www.peaksoaring.co.uk
         wind_direction: NaN - NaN
       - name: Elan Valley
-        lat: ''
-        lng: ''
+        lat: 52.33393
+        lng: -3.60827
         nickname: elanvalley
         contact: https://www.flymidwales.org.uk/
-        wind_direction: NaN - NaN
+        wind_direction: 202 - 247
       - name: Elidir Fach
         lat: 53.1277693445363
         lng: -4.10220704772496
