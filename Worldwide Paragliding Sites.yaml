@@ -536,7 +536,7 @@ countries:
         lng: -3.421
         nickname: cairnwell
         contact: ''
-        wind_direction: []
+        wind_direction: 67.5 - 157.5, 247.5 - 247.5
       - name: Cam Lond Down
         lat: 51.6941
         lng: -2.3302
