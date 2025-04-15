@@ -1442,7 +1442,7 @@ countries:
         lng: -2.5138
         nickname: longridge
         contact: ''
-        wind_direction: []
+        wind_direction: 315 - 22
       - name: Longstone Edge
         lat: 53.2545
         lng: -1.6961
