@@ -1,5 +1,4 @@
-continent: Europe
-  - country: UK
+country: UK
 sites:
   - name: Aberfoyle
     lat: 56.1884
