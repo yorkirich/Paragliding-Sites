@@ -1941,6 +1941,12 @@ countries:
         nickname: shiningtor
         contact: http://www.peaksoaring.co.uk
         wind_direction: 225 - 338
+      - name: Skirrid
+        lat: 51.858824
+        lng: -2.972886
+        nickname: skirrid
+        contact: https://www.flysouthwales.co.uk/
+        wind_direction: 0 - 45, 90 - 135, 270 - 315
       - name: Sourton Tor
         lat: 50.6899827341741
         lng: -4.06611176915728
