@@ -680,7 +680,7 @@ countries:
         lng: -1.48012690405236
         nickname: combegibbet
         contact: http://www.tvhgc.co.uk/
-        wind_direction: NaN - 22, 293 - 22
+        wind_direction: 0 - 22, 293 - 22
       - name: Coney s Castle
         lat: 50.775648
         lng: -2.892199
@@ -1082,7 +1082,7 @@ countries:
         lng: -1.82031067106283
         nickname: goldenball
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 203 - 158, 158 - 203
+        wind_direction: 158 - 203
       - name: Gragareth
         lat: 54.2039387179054
         lng: -2.47841219141294
@@ -2252,7 +2252,7 @@ countries:
         lng: -2.14588790942305
         nickname: westbury
         contact: http://avonhgpg.co.uk/
-        wind_direction: NaN - 22, 315 - 22
+        wind_direction: 0 - 22, 315 - 22
       - name: Wether Fell
         lat: 54.2704151469978
         lng: -2.20466220003877
@@ -2397,3 +2397,4 @@ countries:
         nickname: wnp
         contact: ''
         wind_direction: 45 - 135
+
