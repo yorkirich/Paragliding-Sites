@@ -1058,7 +1058,7 @@ countries:
         lng: -2.8221786869612
         nickname: garway
         contact: ' '
-        wind_direction: 68 - 158
+        wind_direction: 220 - 310
       - name: Glen Fruin
         lat: 56.0672
         lng: -4.747
@@ -2397,4 +2397,5 @@ countries:
         nickname: wnp
         contact: ''
         wind_direction: 45 - 135
+
 
