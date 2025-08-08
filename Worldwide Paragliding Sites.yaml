@@ -104,7 +104,7 @@ countries:
         lng: -4.97092
         nickname: aonach
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 0 - 22
       - name: Arreton
         lat: 50.6812
         lng: -1.22722
@@ -212,19 +212,19 @@ countries:
         lng: ''
         nickname: beinng
         contact: ''
-        wind_direction: NaN - NaN
+        wind_direction: 
       - name: Beinn Leabhainn
         lat: ''
         lng: ''
         nickname: beinnl
         contact: ''
-        wind_direction: NaN - NaN
+        wind_direction: 
       - name: Beinn Liath Mhor
         lat: 57.5117
         lng: -5.38893
         nickname: beinnlitah
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 0 - 22
       - name: Beinn na Feusaige
         lat: 57.5656
         lng: -5.1047
@@ -272,7 +272,7 @@ countries:
         lng: -3.24101426896151
         nickname: benrinnes
         contact: ''
-        wind_direction: NaN - 45
+        wind_direction: 0 - 45
       - name: Ben Toaig
         lat: 56.5615530231602
         lng: -4.83163618458246
@@ -710,7 +710,7 @@ countries:
         lng: -3.02500542257258
         nickname: corndon
         contact: http://www.flymidwales.org.uk
-        wind_direction: NaN - 22, 335 - 205
+        wind_direction: 350 - 135
       - name: Corton Denham
         lat: 51.0086
         lng: -2.5248
@@ -2397,5 +2397,6 @@ countries:
         nickname: wnp
         contact: ''
         wind_direction: 45 - 135
+
 
 
