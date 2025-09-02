@@ -1,0 +1,129 @@
+countries:
+  - id: 68
+    name: "Albania"
+  - id: 65
+    name: "Argentina"
+  - id: 17
+    name: "Australia"
+  - id: 4
+    name: "Austria"
+  - id: 63
+    name: "Belarus"
+  - id: 12
+    name: "Belgium, Luxembourg"
+  - id: 75
+    name: "Bolivia"
+  - id: 38
+    name: "Brazil"
+  - id: 31
+    name: "Bulgaria"
+  - id: 16
+    name: "Canada"
+  - id: 39
+    name: "Chile"
+  - id: 30
+    name: "Colombia"
+  - id: 47
+    name: "Croatia"
+  - id: 79
+    name: "Cuba"
+  - id: 1
+    name: "Czech Republic"
+  - id: 32
+    name: "Denmark"
+  - id: 74
+    name: "Ecuador"
+  - id: 41
+    name: "Estonia"
+  - id: 26
+    name: "Finland"
+  - id: 9
+    name: "France"
+  - id: 71
+    name: "France - La Réunion"
+  - id: 72
+    name: "French Polynesia"
+  - id: 82
+    name: "Georgia"
+  - id: 5
+    name: "Germany"
+  - id: 42
+    name: "Greece"
+  - id: 83
+    name: "H&F CH"
+  - id: 66
+    name: "Hong Kong"
+  - id: 6
+    name: "Hungary"
+  - id: 55
+    name: "Iceland"
+  - id: 62
+    name: "India"
+  - id: 78
+    name: "Iran"
+  - id: 48
+    name: "Ireland"
+  - id: 36
+    name: "Israel"
+  - id: 18
+    name: "Italy"
+  - id: 64
+    name: "Japan"
+  - id: 84
+    name: "Kazakhstan"
+  - id: 13
+    name: "Latvia"
+  - id: 14
+    name: "Lithuania"
+  - id: 33
+    name: "Macedonia"
+  - id: 61
+    name: "Moldavia"
+  - id: 35
+    name: "Nepal"
+  - id: 15
+    name: "Netherlands"
+  - id: 37
+    name: "New Zealand"
+  - id: 23
+    name: "Norway"
+  - id: 73
+    name: "Peru"
+  - id: 3
+    name: "Poland"
+  - id: 34
+    name: "Portugal"
+  - id: 21
+    name: "Republic of South Africa"
+  - id: 19
+    name: "Romania"
+  - id: 43
+    name: "Russia"
+  - id: 50
+    name: "Serbia"
+  - id: 2
+    name: "Slovakia"
+  - id: 8
+    name: "Slovenia"
+  - id: 11
+    name: "Spain"
+  - id: 25
+    name: "Sweden"
+  - id: 7
+    name: "Switzerland"
+  - id: 40
+    name: "Test"
+  - id: 45
+    name: "Thailand"
+  - id: 77
+    name: "Turkey"
+  - id: 49
+    name: "Ukraine"
+  - id: 10
+    name: "United Kingdom"
+  - id: 44
+    name: "United States"
+  - id: 76
+    name: "Uruguay"
+  - id: 46
+    name: "Vietnam"
