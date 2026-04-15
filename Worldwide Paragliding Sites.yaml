@@ -2351,7 +2351,7 @@ countries:
         wind_direction: 225 - 225
       - name: Widdop
         lat: 53.799458
-        lng: --2.112556
+        lng: -2.112556
         nickname: widdop
         contact: ''
         wind_direction: 165 - 195
