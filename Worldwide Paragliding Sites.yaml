@@ -2354,7 +2354,7 @@ countries:
         lng: -2.112556
         nickname: widdop
         contact: ''
-        wind_direction: 165 - 195
+        wind_direction: 165 > 195
       - name: Widgery Cross
         lat: 50.6520834405165
         lng: -4.06803815211599
