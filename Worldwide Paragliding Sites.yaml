@@ -6,7 +6,7 @@ countries:
         lng: 6.52729
         nickname: StAndre
         contact: ''
-        wind_direction: [85 - 170]
+        wind_direction: [85 > 170]
   - country: CO
     sites:
       - name: Aguapanella
