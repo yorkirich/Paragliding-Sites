@@ -1995,6 +1995,12 @@ countries:
         nickname: stanage
         contact: www.derbyshiresoaringclub.org.uk
         wind_direction: 210 - 260
+      - name: Stoodley Pike
+        lat: 53.7129
+        lng: -2.0424
+        nickname: stoodley
+        contact: ''
+        wind_direction: 270 - 300
       - name: Streatley Common
         lat: 51.5188015201089
         lng: -1.14979884222017
@@ -2343,6 +2349,12 @@ countries:
         nickname: whitsand
         contact: ''
         wind_direction: 225 - 225
+      - name: Widdop
+        lat: 53.799458
+        lng: --2.112556
+        nickname: widdop
+        contact: ''
+        wind_direction: 165 - 195
       - name: Widgery Cross
         lat: 50.6520834405165
         lng: -4.06803815211599
