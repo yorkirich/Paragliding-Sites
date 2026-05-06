@@ -159,12 +159,6 @@ countries:
         nickname: barkin
         contact: ''
         wind_direction: 90 - 113, 113 - 158
-      - name: Barkin Fell
-        lat: 54.2766
-        lng: -2.49716
-        nickname: barkin
-        contact: ''
-        wind_direction: []
       - name: Barton Fell
         lat: 54.5829673112629
         lng: -2.83199386355677
