@@ -246,7 +246,7 @@ countries:
       - name: Ben Dorain
         lat: 56.5167921401825
         lng: -4.72955724345637
-        nickname: bendorain
+        nickname: bendorain-
         contact: ''
         wind_direction: 248 - 338
       - name: Ben Ledi
@@ -537,6 +537,12 @@ countries:
         nickname: camlongdown
         contact: http://www.avonhgpg.co.uk/sites/camlongd.php?s
         wind_direction: 270 - 23
+      - name: Camlo
+        lat: 52.323959
+        lng: -3.4276022
+        nickname: Camlo
+        contact: https://longmynd.org/sites/camlo
+        wind_direction: 135 - 160, 225 - 275
       - name: Campsies
         lat: 55.9939725534847
         lng: -4.21483274817732
@@ -627,6 +633,12 @@ countries:
         nickname: chinnor
         contact: http://dunstablehpc.co.uk/cms/site-guides/chinnor/
         wind_direction: 270 - 360
+      - name: Clatter
+        lat: 52.557289
+        lng: -3.470164
+        nickname: clatter
+        contact: https://longmynd.org/sites/clatter
+        wind_direction: 200 - 225
       - name: Claunie
         lat: 57.1637
         lng: -5.20708
