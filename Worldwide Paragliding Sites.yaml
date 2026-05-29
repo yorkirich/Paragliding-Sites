@@ -537,12 +537,18 @@ countries:
         nickname: camlongdown
         contact: http://www.avonhgpg.co.uk/sites/camlongd.php?s
         wind_direction: 270 - 23
-      - name: Camlo
-        lat: 52.323959
-        lng: -3.4276022
+      - name: Camlo SE
+        lat: 52.323593
+        lng: -3.431878
         nickname: Camlo
         contact: https://longmynd.org/sites/camlo
-        wind_direction: 135 - 160, 225 - 275
+        wind_direction: 135 - 160
+      - name: Camlo SW
+        lat: 52.317964
+        lng: -3.415232
+        nickname: Camlo
+        contact: https://longmynd.org/sites/camlo
+        wind_direction: 225 - 275
       - name: Campsies
         lat: 55.9939725534847
         lng: -4.21483274817732
