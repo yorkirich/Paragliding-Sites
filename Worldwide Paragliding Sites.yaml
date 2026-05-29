@@ -128,7 +128,7 @@ countries:
         lng: -1.85176273699385
         nickname: backofecton
         contact: http://www.tvhgc.co.uk/
-        wind_direction: 68 - 68
+        wind_direction: 43 - 93
       - name: Bald Hill
         lat: 51.6585415995216
         lng: -0.95629662243532
@@ -608,7 +608,7 @@ countries:
         lng: -0.3569
         nickname: caytonbay
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 0 - 22
       - name: Chalton Down
         lat: 50.9293394265995
         lng: -0.95423641569418
@@ -620,7 +620,7 @@ countries:
         lng: -1.8282832549696
         nickname: chelmorton
         contact: http://www.peaksoaring.co.uk
-        wind_direction: NaN - 22, 338 - 22
+        wind_direction: 0 - 22, 338 - 22
       - name: Chillerton
         lat: 50.6475373339093
         lng: -1.32716622113774
@@ -830,7 +830,7 @@ countries:
         lng: -1.83687
         nickname: crowdecote
         contact: http://www.peaksoaring.co.uk
-        wind_direction: 248 - 248, 235 - 285
+        wind_direction: 200 - 250
       - name: Curbar Edge
         lat: 53.2695
         lng: -1.61092
@@ -944,7 +944,7 @@ countries:
         lng: -2.27147645063713
         nickname: edenfield
         contact: ''
-        wind_direction: 203 - 203, 158 - 203
+        wind_direction: 158 - 203
       - name: Edge Top
         lat: ''
         lng: ''
@@ -1220,7 +1220,7 @@ countries:
         lng: -1.85089342506071
         nickname: holmemoss
         contact: ''
-        wind_direction: NaN - 68, 348 - 102
+        wind_direction: 0 - 68, 348 - 102
       - name: Horcum
         lat: 54.3347565695724
         lng: -0.70015481656979
