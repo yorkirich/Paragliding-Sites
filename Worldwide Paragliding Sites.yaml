@@ -1130,7 +1130,7 @@ countries:
         lng: -3.2078
         nickname: gyrnmoelfre
         contact: ''
-        wind_direction: 158 - 158, 113 - 158
+        wind_direction: 136 - 180, 225 - 270
       - name: Haig Pit
         lat: 54.5435233413398
         lng: -3.59955312636566
@@ -1400,7 +1400,7 @@ countries:
         lng: -3.13565224259855
         nickname: llangollen
         contact: http://www.tvhgc.co.uk/
-        wind_direction: NaN - 22, 293 - 22
+        wind_direction: 293 - 22
       - name: Llangorse
         lat: 51.9377818837731
         lng: -3.22287930956485
@@ -1411,8 +1411,8 @@ countries:
         lat: 53.0021023613621
         lng: -3.25375137366289
         nickname: llantysiliomountain
-        contact: http://www.tvhgc.co.uk/
-        wind_direction: 158 - 158
+        contact: https://www.nwhgpc.org/
+        wind_direction: 113 - 200
       - name: Lletyn Gors
         lat: ''
         lng: ''
@@ -1609,20 +1609,20 @@ countries:
         lat: 53.0817823031519
         lng: -4.01074095861946
         nickname: moelberfedd
-        contact: http://www.tvhgc.co.uk/
+        contact: 
         wind_direction: 68 - 90
       - name: Moel Eilio
         lat: 53.1085051016799
         lng: -4.14010692050232
         nickname: moeleilio
-        contact: http://www.tvhgc.co.uk/
+        contact:
         wind_direction: 315 - 338
       - name: Moel Famau
         lat: 53.138640847257
         lng: -3.25960811773958
         nickname: moelfamau
-        contact: http://www.tvhgc.co.uk/
-        wind_direction: 270 - 270
+        contact: https://www.nwhgpc.org/
+        wind_direction: 250 - 290
       - name: Moneylaws
         lat: 55.6061733262705
         lng: -2.20526534683158
@@ -1768,11 +1768,17 @@ countries:
         contact: ''
         wind_direction: 270 - 338
       - name: Penycloddiau East
-        lat: 53.2048392805485
-        lng: -3.30912026630049
+        lat: 53.204192
+        lng: -3.308149
         nickname: penycloddiaueast
-        contact: http://www.tvhgc.co.uk/
-        wind_direction: 68 - 68
+        contact: https://www.nwhgpc.org/
+        wind_direction: 45 - 90
+      - name: Penycloddiau West
+        lat: 53.198704
+        lng: -3.306802
+        nickname: penycloddiaueast
+        contact: https://www.nwhgpc.org/
+        wind_direction: 225 - 270
       - name: Perran Sands
         lat: 50.3610062320246
         lng: -5.14810058364209
