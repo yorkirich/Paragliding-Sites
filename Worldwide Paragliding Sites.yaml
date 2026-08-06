@@ -6,7 +6,8 @@ countries:
         lng: 6.52729
         nickname: StAndre
         contact: ''
-        wind_direction: [85 - 170]
+        wind_direction:
+          - 85 - 170
   - country: CO
     sites:
       - name: Aguapanella
@@ -1495,13 +1496,13 @@ countries:
         lat: 53.0817823031519
         lng: -4.01074095861946
         nickname: moelberfedd
-        contact: 
+        contact: null
         wind_direction: 68 - 90
       - name: Moel Eilio
         lat: 53.1085051016799
         lng: -4.14010692050232
         nickname: moeleilio
-        contact:
+        contact: null
         wind_direction: 315 - 338
       - name: Moel Famau
         lat: 53.138640847257
@@ -1886,7 +1887,7 @@ countries:
         lng: -2.19364628861385
         nickname: stags
         contact: ''
-        wind_direction: 203 - 180, 158 - 225
+        wind_direction: 180 - 203
       - name: Stanage
         lat: 53.3454
         lng: -1.6299
@@ -2035,8 +2036,7 @@ countries:
         lat: 55.6039712972966
         lng: -3.65887417139863
         nickname: tintona
-        contact: 'https://www.llsclub.co.uk/index.php'
-        wind_direction: 330 - 015
+        wind_direction: 330 - 15
       - name: Tinto (South)
         lat: 55.5923152990442
         lng: -3.69958045488563
@@ -2259,6 +2259,37 @@ countries:
         nickname: wnp
         contact: ''
         wind_direction: 45 - 135
-
-
-
+      - name: Tinto (N)
+        lat: 55.5923152990442
+        lng: -3.69958045488563
+        wind_direction: 330 - 30
+        contact: https://www.llsclub.co.uk/index.php/
+      - name: Blorenge, The
+        lat: 51.8073284226637
+        lng: -3.0559017888462
+        wind_direction: 280 - 120
+        contact: http://www.sewhgpgc.co.uk
+      - name: Roaches, The
+        lat: 53.1689241243135
+        lng: -2.00292379311362
+        wind_direction: 203 - 270
+        contact: http://www.tvhgc.co.uk/
+      - name: Cluanie
+        lat: 57.1637
+        lng: -5.20708
+        wind_direction: 135 - 203
+      - name: Llangollen
+        lat: 52.9561309532669
+        lng: -3.13565224259855
+        wind_direction: 293 - 22
+        contact: https://www.nwhgpc.org/
+  - country: user
+    sites:
+      - name: Tinto (S)
+        lat: 55.58877
+        lng: -3.69535
+        wind_direction: 150 - 210
+      - name: Quiraing, The - Trotternish
+        lat: 57.6291767354177
+        lng: -6.28904166728169
+        wind_direction: 45 - 113
