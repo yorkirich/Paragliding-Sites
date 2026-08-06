@@ -201,18 +201,6 @@ countries:
         nickname: beinneighe
         contact: ''
         wind_direction: 203 - 158
-      - name: Beinn Ghlas
-        lat: ''
-        lng: ''
-        nickname: beinng
-        contact: ''
-        wind_direction: 
-      - name: Beinn Leabhainn
-        lat: ''
-        lng: ''
-        nickname: beinnl
-        contact: ''
-        wind_direction: 
       - name: Beinn Liath Mhor
         lat: 57.5117
         lng: -5.38893
@@ -327,12 +315,6 @@ countries:
         nickname: blackmountw
         contact: ''
         wind_direction: 315 - 68
-      - name: Blacka Moor
-        lat: ''
-        lng: ''
-        nickname: blackamoor
-        contact: http://friendsofblackamoor.co.uk/default.aspx
-        wind_direction: NaN - NaN
       - name: Blackhall
         lat: 54.7528868018388
         lng: -1.28273622305469
@@ -356,7 +338,7 @@ countries:
         lng: -3.13783124710484
         nickname: blaenavon
         contact: http://www.swwsc.co.uk
-        wind_direction: NaN - 90
+        wind_direction: 0 - 90
       - name: Blease Fell
         lat: 54.6252647484199
         lng: -3.07603426418406
@@ -381,12 +363,6 @@ countries:
         nickname: bradwell
         contact: www.derbyshiresoaringclub.org.uk
         wind_direction: 225 - 330
-      - name: Brampton Quarry
-        lat: ''
-        lng: ''
-        nickname: bramptonq
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Branscombe
         lat: 50.6882923717306
         lng: -3.15708682375721
@@ -459,18 +435,6 @@ countries:
         nickname: bryncaws
         contact: 'http://www.sewhgpgc.co.uk '
         wind_direction: 113 - 158
-      - name: Buckies - Finstry Hills (NE)
-        lat: ''
-        lng: ''
-        nickname: buckies
-        contact: https://www.llsclub.co.uk/index.php/stronend
-        wind_direction: NaN - NaN
-      - name: Buckies - Lees Hill (NW)
-        lat: ''
-        lng: ''
-        nickname: buckies2
-        contact: https://www.llsclub.co.uk/index.php/stronen
-        wind_direction: NaN - NaN
       - name: Bunster Hill
         lat: 53.0607
         lng: -1.7907
@@ -597,12 +561,6 @@ countries:
         nickname: catstor
         contact: http://www.peaksoaring.co.uk
         wind_direction: 225 - 315
-      - name: Cautley Crags
-        lat: ''
-        lng: ''
-        nickname: cautleyc
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Cautley Spout
         lat: 54.3769806337038
         lng: -2.48164069702358
@@ -674,7 +632,7 @@ countries:
         lng: -4.02254391344317
         nickname: codden
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 0 - 22
       - name: Coire a Chaorachain
         lat: 57.418
         lng: -5.6886
@@ -740,7 +698,7 @@ countries:
         lng: -2.17245828520615
         nickname: cow
         contact: ''
-        wind_direction: NaN - 68, 23 - 68
+        wind_direction: 23 - 68
       - name: Cowards Bowl
         lat: 51.1087540716701
         lng: -2.2717949488275
@@ -765,30 +723,12 @@ countries:
         nickname: craigh
         contact: ''
         wind_direction: 23 - 68
-      - name: Craig Leith (Alva)
-        lat: ''
-        lng: ''
-        nickname: craigl
-        contact: ''
-        wind_direction: NaN - NaN
-      - name: Craig Lethnot
-        lat: ''
-        lng: ''
-        nickname: craiglethnot
-        contact: https://www.ahpc.org.uk/sites/craig-lethnot/
-        wind_direction: NaN - NaN
       - name: Craiglich
         lat: 57.1368718944488
         lng: -2.77309783770495
         nickname: craiglich
         contact: ''
         wind_direction: 180 - 270
-      - name: Creag Dubh
-        lat: ''
-        lng: ''
-        nickname: creagdubh
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Creag Meaghaidh
         lat: 56.9545016600413
         lng: -4.53655599565876
@@ -854,7 +794,7 @@ countries:
         lng: -0.21296
         nickname: devils
         contact: http://www.shgc.org.uk/
-        wind_direction: NaN - 338
+        wind_direction: 270 - 338
       - name: Disgwylfa Fawr
         lat: 52.444701350389
         lng: -3.86067222222222
@@ -879,12 +819,6 @@ countries:
         nickname: doddf
         contact: ''
         wind_direction: 315 - 315, 248 - 337
-      - name: Double Craigs - Stronend (W)
-        lat: ''
-        lng: ''
-        nickname: doublecraigs
-        contact: https://www.llsclub.co.uk/index.php/stronend
-        wind_direction: NaN - NaN
       - name: Draycott
         lat: 51.2541583941813
         lng: -2.72121144345133
@@ -897,12 +831,6 @@ countries:
         nickname: drumadoon
         contact: ''
         wind_direction: 293 - 315
-      - name: Dumyat
-        lat: ''
-        lng: ''
-        nickname: dumyat
-        contact: https://www.llsclub.co.uk/index.php/dumyat
-        wind_direction: NaN - NaN
       - name: Dungavel Hill
         lat: 55.5571914237185
         lng: -3.68174090624729
@@ -951,12 +879,6 @@ countries:
         nickname: edenfield
         contact: ''
         wind_direction: 158 - 203
-      - name: Edge Top
-        lat: ''
-        lng: ''
-        nickname: edgetop
-        contact: http://www.peaksoaring.co.uk
-        wind_direction: NaN - NaN
       - name: Elan Valley
         lat: 52.33393
         lng: -3.60827
@@ -998,7 +920,7 @@ countries:
         lng: -3.62369914743944
         nickname: gyhirych
         contact: http://www.swwsc.co.uk
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Farleton Knott
         lat: 54.2182943527723
         lng: -2.70956001245388
@@ -1016,7 +938,7 @@ countries:
         lng: -3.14388879866912
         nickname: farway
         contact: http://www.shgc.org.uk/
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Fionn Bheinn
         lat: 57.6109
         lng: -5.1037
@@ -1028,7 +950,7 @@ countries:
         lng: 0.08032212804009
         nickname: firle
         contact: http://www.shgc.org.uk/
-        wind_direction: NaN - 23
+        wind_direction: 338 - 23
       - name: Ford Farm
         lat: 51.1467327667851
         lng: -2.90027591846313
@@ -1046,7 +968,7 @@ countries:
         lng: -1.9926
         nickname: fraserburgh
         contact: ''
-        wind_direction: NaN - 45
+        wind_direction: 0 - 45
       - name: Frocester
         lat: 51.708936663441
         lng: -2.29937933385733
@@ -1101,12 +1023,6 @@ countries:
         nickname: grag
         contact: ''
         wind_direction: 68 - 135
-      - name: Great Coum
-        lat: ''
-        lng: ''
-        nickname: gc
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Great Langdale
         lat: 54.4552361364794
         lng: -3.10535431693037
@@ -1118,7 +1034,7 @@ countries:
         lng: -0.01660582389596
         nickname: greendragons
         contact: http://www.shgc.org.uk/
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Grike
         lat: 54.5221703139353
         lng: -3.39244456683296
@@ -1137,18 +1053,6 @@ countries:
         nickname: haig
         contact: ''
         wind_direction: 248 - 315
-      - name: Ham Hill
-        lat: ''
-        lng: ''
-        nickname: hamhill
-        contact: http://www.dscondors.co.uk/
-        wind_direction: NaN - NaN
-      - name: Hambledon Hill
-        lat: ''
-        lng: ''
-        nickname: hambledonhill
-        contact: http://www.shgc.org.uk/
-        wind_direction: NaN - NaN
       - name: Hameldon Hill
         lat: 53.7572931910112
         lng: -2.29548334267589
@@ -1208,19 +1112,19 @@ countries:
         lng: 0.81356299599655
         nickname: farm
         contact: http://www.shgc.org.uk/
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Hillend
         lat: 55.8830374517101
         lng: -3.21367864166559
         nickname: hillend
         contact: https://www.llsclub.co.uk/index.php/hillend
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Holmbeck
         lat: 51.9101364159082
         lng: -0.72950542944165
         nickname: holmbeck
         contact: http://dunstablehpc.co.uk/
-        wind_direction: NaN - 22, 0 - 360
+        wind_direction: 338 - 22
       - name: Holme Moss
         lat: 53.532386676772
         lng: -1.85089342506071
@@ -1250,7 +1154,7 @@ countries:
         lng: -2.05299166565118
         nickname: humbleton
         contact: ''
-        wind_direction: NaN - 68
+        wind_direction: 18 - 68
       - name: Humphrey Head
         lat: 54.15645315539
         lng: -2.93415758814235
@@ -1292,7 +1196,7 @@ countries:
         lng: -2.50137441560164
         nickname: kerloch
         contact: ''
-        wind_direction: NaN - 180
+        wind_direction: 135 - 180
       - name: Kimmeridge
         lat: 50.6158831806001
         lng: -2.10726846787761
@@ -1304,7 +1208,7 @@ countries:
         lng: -3.82313117271254
         nickname: kingtor
         contact: ''
-        wind_direction: NaN - 113
+        wind_direction: 75 - 113
       - name: Kintail
         lat: 57.2240783967896
         lng: -5.40623516976557
@@ -1352,7 +1256,7 @@ countries:
         lng: -2.06185181067167
         nickname: leckhampton
         contact: http://www.malvern-hang.org.uk/leckhamp.shtml
-        wind_direction: NaN - 22, 315 - 45
+        wind_direction: 315 - 45
       - name: Ledmore
         lat: 58.0704
         lng: -4.9637
@@ -1413,12 +1317,6 @@ countries:
         nickname: llantysiliomountain
         contact: https://www.nwhgpc.org/
         wind_direction: 113 - 200
-      - name: Lletyn Gors
-        lat: ''
-        lng: ''
-        nickname: lletyngors
-        contact: 'http://www.sewhgpgc.co.uk '
-        wind_direction: NaN - NaN
       - name: Loch Walton
         lat: 56.0616
         lng: -4.1407
@@ -1521,12 +1419,6 @@ countries:
         nickname: mab
         contact: ''
         wind_direction: 113 - 158
-      - name: Meall Chuaich
-        lat: ''
-        lng: ''
-        nickname: meallchuaich
-        contact: ''
-        wind_direction: []
       - name: Meall Gorm
         lat: 57.4025
         lng: -5.7018
@@ -1593,12 +1485,6 @@ countries:
         nickname: millington
         contact: ''
         wind_direction: 270 - 360
-      - name: Minster
-        lat: ''
-        lng: ''
-        nickname: minster
-        contact: http://www.shgc.org.uk/
-        wind_direction: []
       - name: Model Ridge
         lat: 54.4223031576928
         lng: -1.1927703132795
@@ -1683,12 +1569,6 @@ countries:
         nickname: nacnap
         contact: ''
         wind_direction: 113 - 180
-      - name: Nantymoel
-        lat: ''
-        lng: ''
-        nickname: nantymoel
-        contact: ''
-        wind_direction: []
       - name: Nappa Scar
         lat: 54.3278556960486
         lng: -2.06233558787737
@@ -1826,7 +1706,7 @@ countries:
         lng: -4.23154166666667
         nickname: putsborough
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Quinag
         lat: 58.1987
         lng: -5.0234
@@ -1892,7 +1772,7 @@ countries:
         lng: -5.2989
         nickname: sailmhor
         contact: ''
-        wind_direction: NaN - 68
+        wind_direction: 23 - 68
       - name: Saltburn
         lat: 54.584259834498
         lng: -0.96264752932945
@@ -1934,7 +1814,7 @@ countries:
         lng: -3.57004768202716
         nickname: selworthysands
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Semer Water
         lat: 54.2878383250504
         lng: -2.14609261127461
@@ -2000,7 +1880,7 @@ countries:
         lng: -5.22895443416641
         nickname: stagnes
         contact: ''
-        wind_direction: NaN - 338
+        wind_direction: 288 - 338
       - name: Stags Fell
         lat: 54.3252164846685
         lng: -2.19364628861385
@@ -2030,7 +1910,7 @@ countries:
         lng: -1.18792540051407
         nickname: snorth
         contact: http://www.shgc.org.uk/
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Strete
         lat: 50.3027473938485
         lng: -3.6356948640072
@@ -2060,13 +1940,7 @@ countries:
         lng: -5.19712183467706
         nickname: suidhe
         contact: ''
-        wind_direction: NaN - 22
-      - name: Sutton Bank
-        lat: ''
-        lng: ''
-        nickname: suttonb
-        contact: ''
-        wind_direction: NaN - NaN
+        wind_direction: 338 - 22
       - name: Swarth Fell
         lat: 54.364716005893
         lng: -2.37586393444005
@@ -2091,12 +1965,6 @@ countries:
         nickname: tailbridge
         contact: ''
         wind_direction: 203 - 315
-      - name: Talisker plage
-        lat: ''
-        lng: ''
-        nickname: talisker
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Talybont
         lat: 51.8561886032299
         lng: -3.37556409483623
@@ -2167,14 +2035,8 @@ countries:
         lat: 55.6039712972966
         lng: -3.65887417139863
         nickname: tintona
-        contact: ''
-        wind_direction: NaN - 338
-      - name: Tinto (North)
-        lat: ''
-        lng: ''
-        nickname: tinton
-        contact: https://www.llsclub.co.uk/index.php/tinto-north
-        wind_direction: NaN - NaN
+        contact: 'https://www.llsclub.co.uk/index.php'
+        wind_direction: 330 - 015
       - name: Tinto (South)
         lat: 55.5923152990442
         lng: -3.69958045488563
@@ -2187,12 +2049,6 @@ countries:
         nickname: tomna
         contact: ''
         wind_direction: 248 - 158
-      - name: Tops of Fichell
-        lat: ''
-        lng: ''
-        nickname: tops
-        contact: https://www.ahpc.org.uk/sites/tops-of-fichell/
-        wind_direction: NaN - NaN
       - name: Torr - Lochranza
         lat: 55.6939730305106
         lng: -5.26207702654946
@@ -2210,7 +2066,7 @@ countries:
         lng: -3.95499014603524
         nickname: trentishoe
         contact: ''
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: Triscombe
         lat: 51.1098944047502
         lng: -3.20185376488544
@@ -2234,7 +2090,7 @@ countries:
         lng: -2.67609106388554
         nickname: ubley
         contact: ' http://www.avonhgpg.co.uk/ '
-        wind_direction: NaN - 68, 22 - 68
+        wind_direction: 22 - 68
       - name: Uffington
         lat: 51.5773219123224
         lng: -1.56660402076106
@@ -2253,12 +2109,6 @@ countries:
         nickname: walla
         contact: ''
         wind_direction: 270 - 338
-      - name: Warren Cottage
-        lat: ''
-        lng: ''
-        nickname: warrenc
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Warren Cottage
         lat: 50.3016
         lng: -4.06038
@@ -2295,12 +2145,6 @@ countries:
         nickname: whernside
         contact: ''
         wind_direction: 68 - 158
-      - name: Whernside (NW)
-        lat: ''
-        lng: ''
-        nickname: whernsiden
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Whernside (SW)
         lat: 54.2241222315261
         lng: -2.40415309337929
@@ -2318,7 +2162,7 @@ countries:
         lng: -4.84102755109905
         nickname: whitecorries
         contact: https://www.walkhighlands.co.uk/fortwilliam/buachailleetivemor.shtml
-        wind_direction: NaN - 22
+        wind_direction: 338 - 22
       - name: White Field
         lat: 51.4880061861198
         lng: -1.70444183406358
@@ -2343,12 +2187,6 @@ countries:
         nickname: whitesheet
         contact: http://www.wessexhgpg.org.uk
         wind_direction: 225 - 315
-      - name: Whiteside - White Knowe
-        lat: ''
-        lng: ''
-        nickname: whiteside
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Whitestones
         lat: 54.378195568486
         lng: -2.56385132787318
@@ -2379,12 +2217,6 @@ countries:
         nickname: widgery
         contact: ''
         wind_direction: 248 - 315
-      - name: Wild Boar Fell
-        lat: ''
-        lng: ''
-        nickname: wbf
-        contact: ''
-        wind_direction: NaN - NaN
       - name: Windbank
         lat: 54.1278807389391
         lng: -2.04968493382227
@@ -2408,7 +2240,7 @@ countries:
         lng: -2.98180966241917
         nickname: wolfc
         contact: ''
-        wind_direction: NaN - 22, 348 - 68
+        wind_direction: 348 - 68
       - name: Woolacombe
         lat: 51.1574040631942
         lng: -4.20626391281866
