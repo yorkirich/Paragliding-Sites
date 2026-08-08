@@ -2267,6 +2267,7 @@ countries:
       - name: Blorenge, The
         lat: 51.8073284226637
         lng: -3.0559017888462
+        nickname: blorenge
         wind_direction: 280 - 120
         contact: http://www.sewhgpgc.co.uk
       - name: Roaches, The
