@@ -1300,12 +1300,6 @@ countries:
         nickname: llandinam
         contact: ''
         wind_direction: 245 - 315
-      - name: Llangolen
-        lat: 52.9561309532669
-        lng: -3.13565224259855
-        nickname: llangollen
-        contact: http://www.tvhgc.co.uk/
-        wind_direction: 293 - 22
       - name: Llangorse
         lat: 51.9377818837731
         lng: -3.22287930956485
